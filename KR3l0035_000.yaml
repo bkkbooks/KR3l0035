@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3l0035/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十二
+  hash: sha256:b91c7627c34399fce720371900e7def4c0469982b792a8bd4a0a78b88d470d59
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3l0035_WYG_000-1a, image: WYG1036/WYG1036-0609a.png}
+body:
+  text: 青箱雜記小說家類一雜事之屬提要臣等謹按青箱雜記十卷宋吳處厚撰處厚字伯固邵武人皇祐五年進士初為將作丞以王圭荐授館職出知漢陽軍後擢知衛州卒其書皆記當代雜事亦多詩話朝公武讀書志謂所記多失實又譏其記成都置交子務誤以冦瑊為張詠案處厚以干進不遂挾怨羅織蔡確車蓋亭詩驟得遷擢為論者所薄故公武惡其人併惡其書今觀所記如以馮道為大人之類頗乖風教不但記録之訛然處厚本工吟咏宣和畫譜載其題王正升㶏景亭詩一首剡史載其自諸暨扺剡詩二首皆綽有唐人格意故其論詩往往可取亦不必盡以人廢也乾隆四十二年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:d515b145f527f9b98210f58d5795f5b629f84dd58389433350fd55432bf6376d
+metadata:
+  title: 青箱雜記
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:37:56.600799'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3l0035/KR3l0035_000.txt
+hash: sha256:bb591761f6a3aa0d4981be77641eb9f1ca6750bda3b69e93be47dca3a2276280
