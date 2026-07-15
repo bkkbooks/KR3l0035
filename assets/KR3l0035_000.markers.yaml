@@ -14,6 +14,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR3l0035_WYG_000-1a02}
   - {type: indent, offset: 0, content: 　, id: KR3l0035_krp_000-bkkind1}
   - {type: indent, offset: 4, content: 　　　　　　　, id: KR3l0035_krp_000-bkkind2}
+  - {type: substitution, offset: 7, original: 𩔖, replacement: 類, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19628}}
   - {type: punctuation, offset: 9, content: (, id: KR3l0035_krp_000-bkkpn1}
   - {type: punctuation, offset: 13, content: /, id: KR3l0035_krp_000-bkkpn2}
   - {type: punctuation, offset: 13, content: ), id: KR3l0035_krp_000-bkkpn3}
@@ -40,12 +41,15 @@ markers:
       ', id: KR3l0035_krp_000-bkkkrnewl5}
   - {type: line-break, offset: 49, content: '', id: KR3l0035_WYG_000-1a06}
   - {type: indent, offset: 49, content: 　　　　, id: KR3l0035_krp_000-bkkind6}
+  - {type: substitution, offset: 51, original: 珪, replacement: 圭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20001}}
   - {type: 'kr:newline', offset: 66, content: '
 
       ', id: KR3l0035_krp_000-bkkkrnewl6}
   - {type: line-break, offset: 66, content: '', id: KR3l0035_WYG_000-1a07}
   - {type: indent, offset: 66, content: 　　　　, id: KR3l0035_krp_000-bkkind7}
   - {type: variant, offset: 73, length: 1, content: 襍, WYG: 􅇎}
+  - {type: substitution, offset: 73, original: 襍, replacement: 雜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16376}}
+  - {type: substitution, offset: 79, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: 'kr:newline', offset: 83, content: '
 
       ', id: KR3l0035_krp_000-bkkkrnewl7}
@@ -60,6 +64,7 @@ markers:
       ', id: KR3l0035_krp_000-bkkkrnewl9}
   - {type: line-break, offset: 100, content: '', id: KR3l0035_WYG_000-1b01}
   - {type: indent, offset: 100, content: 　　　　, id: KR3l0035_krp_000-bkkind9}
+  - {type: substitution, offset: 116, original: 挟, replacement: 挾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16854}}
   - {type: 'kr:newline', offset: 117, content: '
 
       ', id: KR3l0035_krp_000-bkkkrnewl10}
@@ -75,6 +80,7 @@ markers:
       ', id: KR3l0035_krp_000-bkkkrnewl12}
   - {type: line-break, offset: 151, content: '', id: KR3l0035_WYG_000-1b04}
   - {type: indent, offset: 151, content: 　　　　, id: KR3l0035_krp_000-bkkind12}
+  - {type: substitution, offset: 157, original: 𩔖, replacement: 類, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19628}}
   - {type: 'kr:newline', offset: 168, content: '
 
       ', id: KR3l0035_krp_000-bkkkrnewl13}
@@ -85,6 +91,7 @@ markers:
       ', id: KR3l0035_krp_000-bkkkrnewl14}
   - {type: line-break, offset: 185, content: '', id: KR3l0035_WYG_000-1b06}
   - {type: indent, offset: 185, content: 　　　　, id: KR3l0035_krp_000-bkkind14}
+  - {type: substitution, offset: 185, original: 㶏, replacement: 濦, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-7944}}
   - {type: 'kr:newline', offset: 202, content: '
 
       ', id: KR3l0035_krp_000-bkkkrnewl15}
@@ -136,4 +143,4 @@ markers:
 
       ', id: KR3l0035_krp_000-bkkkrnewl21}
   back: []
-hash: sha256:10634b5b7243e26f1753347547fd7f41951ebd2837b8183e8729102873025350
+hash: sha256:8561d1cf75fee1acda8debac9fd06682b222b12735d48bdde071af242c79932e
