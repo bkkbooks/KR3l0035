@@ -58,6 +58,7 @@ markers:
   - {type: line-break, offset: 96, content: '', id: KR3l0035_WYG_006-1b01}
   - {type: indent, offset: 96, content: 　, id: KR3l0035_krp_006-bkkind8}
   - {type: punctuation, offset: 110, content: (, id: KR3l0035_krp_006-bkkpn1}
+  - {type: voice, offset: 110, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 111, content: /, id: KR3l0035_krp_006-bkkpn2}
   - {type: punctuation, offset: 111, content: ), id: KR3l0035_krp_006-bkkpn3}
   - {type: 'kr:newline', offset: 116, content: '
@@ -120,6 +121,7 @@ markers:
   - {type: line-break, offset: 280, content: '', id: KR3l0035_WYG_006-2a03}
   - {type: indent, offset: 280, content: 　, id: KR3l0035_krp_006-bkkind17}
   - {type: punctuation, offset: 297, content: (, id: KR3l0035_krp_006-bkkpn4}
+  - {type: voice, offset: 297, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 298, content: /, id: KR3l0035_krp_006-bkkpn5}
   - {type: punctuation, offset: 298, content: ), id: KR3l0035_krp_006-bkkpn6}
   - {type: indent, offset: 298, content: 　, id: KR3l0035_krp_006-bkkind18}
@@ -130,6 +132,7 @@ markers:
   - {type: indent, offset: 299, content: 　, id: KR3l0035_krp_006-bkkind19}
   - {type: substitution, offset: 300, original: 偁, replacement: 稱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20183}}
   - {type: punctuation, offset: 307, content: (, id: KR3l0035_krp_006-bkkpn7}
+  - {type: voice, offset: 307, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 308, content: /, id: KR3l0035_krp_006-bkkpn8}
   - {type: punctuation, offset: 308, content: ), id: KR3l0035_krp_006-bkkpn9}
   - {type: variant, offset: 315, length: 1, content: 鬢, WYG: 􅁂}
@@ -779,4 +782,4 @@ markers:
 
       ', id: KR3l0035_krp_006-bkkkrnewl143}
   back: []
-hash: sha256:77417fc1ffe9c20a14283e58401454fb0d9c26cbc315b9feab6efedca72e324c
+hash: sha256:8e711e375f7cbdaadaf941261c7725c466a847beb3ac3e2ad3a0323c697cf9cb
